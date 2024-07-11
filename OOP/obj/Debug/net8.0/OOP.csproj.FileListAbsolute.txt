@@ -1,0 +1,14 @@
+E:\Projects\With VS 2022\Route\RevisionOOP\OOP\bin\Debug\net8.0\OOP.exe
+E:\Projects\With VS 2022\Route\RevisionOOP\OOP\bin\Debug\net8.0\OOP.deps.json
+E:\Projects\With VS 2022\Route\RevisionOOP\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+E:\Projects\With VS 2022\Route\RevisionOOP\OOP\bin\Debug\net8.0\OOP.dll
+E:\Projects\With VS 2022\Route\RevisionOOP\OOP\bin\Debug\net8.0\OOP.pdb
+E:\Projects\With VS 2022\Route\RevisionOOP\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\With VS 2022\Route\RevisionOOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+E:\Projects\With VS 2022\Route\RevisionOOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+E:\Projects\With VS 2022\Route\RevisionOOP\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+E:\Projects\With VS 2022\Route\RevisionOOP\OOP\obj\Debug\net8.0\OOP.dll
+E:\Projects\With VS 2022\Route\RevisionOOP\OOP\obj\Debug\net8.0\refint\OOP.dll
+E:\Projects\With VS 2022\Route\RevisionOOP\OOP\obj\Debug\net8.0\OOP.pdb
+E:\Projects\With VS 2022\Route\RevisionOOP\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+E:\Projects\With VS 2022\Route\RevisionOOP\OOP\obj\Debug\net8.0\ref\OOP.dll
